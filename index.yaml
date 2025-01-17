@@ -3,12 +3,12 @@ entries:
   jupyter:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-01-16T21:48:05.25247898-06:00"
+    created: "2025-01-17T11:37:25.449739-06:00"
     description: A Helm chart for jupyter notebooks
-    digest: 825271fa3bb765918189a2c5386e8d2edfb358a55175672d75426b2ca2c08a04
+    digest: d185a9007ddef65e5fa0c8e25c1060a3fdf3a7e644ed0823eb774f9c05bf99ed
     name: jupyter
     type: application
     urls:
     - https://karchx.github.io/dataeclipse-charts/jupyter-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-16T21:48:05.252012425-06:00"
+generated: "2025-01-17T11:37:25.449068-06:00"
